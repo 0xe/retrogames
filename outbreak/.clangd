@@ -1,0 +1,4 @@
+CompileFlags:
+    Add:
+        - "-I=3rdparty/SDL2/include"
+        - "-L=3rdparty/SDL2/lib"

@@ -1,0 +1,3 @@
+- Make player movement more responsive
+- Twinkle background, textures
+- Make it more forgivin
